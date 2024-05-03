@@ -1,0 +1,63 @@
+6
+Coast to coast
+West Life
+images/coast_to_coast.jpg
+3
+Soledad
+musics/soledad.mp3
+My Love
+musics/my_love.mp3
+I Lay My Love On You
+musics/i_lay_my_love_on_you.mp3
+Different World
+Alan Walker
+images/different_world.png
+7
+All Falls Down
+musics/all_falls_down.mp3
+Alone
+musics/alone.mp3
+Darkside
+musics/darkside.mp3
+Faded
+musics/faded.mp3
+Lily
+musics/lily.mp3
+Lost Control
+musics/lost_control.mp3
+Sing Me To Sleep
+musics/sing_me_to_sleep.mp3
+JORDI
+Maroon 5
+images/jordi.png
+2
+Lost
+musics/lost.mp3
+Memories
+musics/memories.mp3
+Nine Track Mind
+Charlie Puth
+images/nine_track_mind.jpg
+3
+One Call Away
+musics/one_call_away.mp3
+Dangerously
+musics/dangerously.mp3
+We Don't Talk Anymore
+musics/we_dont_talk_anymore.mp3
+Millennium
+Backstreet Boys
+images/millennium.jpg
+2
+I Want It That Way
+musics/i_want_it_that_way.mp3
+Show Me The Meaning Of Being Lonely
+musics/show_me_the_meaning_of_being_lonely.mp3
+West Life
+West Life
+images/west_life.jpg
+2
+Fool Again
+musics/fool_again.mp3
+If I Let You Go
+musics/if_i_let_you_go.mp3
